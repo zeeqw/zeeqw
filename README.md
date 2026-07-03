@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/67/90/3a/67903a4991355e890f50e0e74c2194b3.jpg"width= "600"/>
+<img src="https://i.pinimg.com/736x/0b/9a/a2/0b9aa24c18c4a48e397c51377b09ec18.jpg"/>
 </p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
