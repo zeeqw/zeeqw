@@ -69,7 +69,7 @@
       <font color="#808080" size="3">
         🖤 <b>ABOUT ME</b><br/><br/>
         🕷️ <code>Location :</code> Earth / UTC+7<br/>
-        🕸️ <code>Interests:</code> Drawing, Music, Dark Aesthetics<br/>
+        🕸️ <code>Interests:</code> Drawing, Music, 𝔐𝔢𝔤𝔲𝔪𝔦 <br/>
       </font>
     </td>
   </tr>
