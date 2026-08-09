@@ -7,6 +7,10 @@
 </h1>
 
 <p align="center">
+  ─────── ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ───────
+</p>
+
+<p align="center">
 <img src="https://i.pinimg.com/originals/d7/5a/c4/d75ac45a36cde073d6f23cad2ce8b38c.gif"/>
 </p>
 
