@@ -33,7 +33,13 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://i.postimg.cc/vTjvbpTy/my-baby-removebg-preview.png" width="180px" align="left" alt="Decor" />
+  
+  <font size="5" color="#808080">𝓯𝓻𝓮𝓪𝓴𝔂.</font>
+</p>
 
+<br clear="all" />
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
