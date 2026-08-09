@@ -51,7 +51,17 @@
   </tr>
 </table>
 
-
+<p align="center">
+  <table border="0" style="border: none;">
+    <tr style="border: none;">
+      <td style="border: 1px solid #333333; background-color: #0D1117; padding: 15px; border-radius: 8px;">
+        <font color="#808080" size="3">
+          <i>"Welcome to the dark side of my repository... ✦ 🖤"</i>
+        </font>
+      </td>
+    </tr>
+  </table>
+</p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
