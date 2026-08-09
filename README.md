@@ -22,7 +22,13 @@
   </a>
 </p>
 
+<div align="center">
 
+| ━━━━⊱⋆⊰━━━━|
+| 𝑴𝒆𝒈𝒖𝒎𝒊 #𝟏 𝒈𝒍𝒂𝒛𝒆𝒓. |
+| 𝒇𝒓𝒆𝒂𝒌𝒚 .. |
+
+</div>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
