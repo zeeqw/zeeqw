@@ -33,10 +33,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeqw&show_icons=true&theme=dark&hide_border=true&title_color=808080&icon_color=808080&text_color=aaaaaa" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeqw&layout=compact&theme=dark&hide_border=true&title_color=808080&text_color=aaaaaa" width="45%" />
-</p>
+
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
