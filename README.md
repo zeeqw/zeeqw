@@ -7,6 +7,11 @@
     <img src="https://img.shields.io/badge/Sign%20my-Atabook-black?style=for-the-badge" alt="Atabook Guestbook" />
   </a>
 </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Ch%C3%A0o+m%E1%BB%9Dng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+Github!;if+not+niw+,+when?;Software+Engineer+%26+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
