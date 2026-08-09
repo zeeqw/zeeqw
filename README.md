@@ -26,17 +26,11 @@
 | 𝑴𝒆𝒈𝒖𝒎𝒊 #𝟏 𝒈𝒍𝒂𝒛𝒆𝒓. |
 </div>
 
-<p align="center">
-  <a href="https://open.spotify.com/track/4Sav8RLaXMBpTZX6xNPj0K" target="_blank">
-    <img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/cd.gif" width="50px" alt="Vinyl CD" /><br/>
-    <img src="https://img.shields.io/badge/NOW%20PLAYING-Try%20Again%20--%20JAEHYUN-808080?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
-  </a>
-</p>
 
 <table border="0" style="border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 25px;">
-      <img src="LINK_ẢNH_CỦA_BẠN.png" width="400px" alt="Decor" />
+      <img src="https://i.postimg.cc/vTjvbpTy/my-baby-removebg-preview.png" width="400px" alt="Decor" />
     </td>
     
    <td valign="middle" align="center" style="border: none;">
