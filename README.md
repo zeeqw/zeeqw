@@ -41,7 +41,6 @@
     <td valign="middle" style="border: none;">
       <font size="5" color="#808080">
         ι'ℓℓ кιℓℓ уσυ ιƒ уσυ ∂ιє αgαιη .
-
       </font>
     </td>
   </tr>
