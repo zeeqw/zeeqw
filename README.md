@@ -27,7 +27,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLAYING-Try%20Again%20--%20JAEHYUN-808080?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/track/10M1p1J08v7JkZ0C9fQW5K" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlOHAwZ2x1bnJjOWMwbWZqZHZ6N3A0eGZxb3RseW9xbXZpM2J0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oEjI6SIIHBdR6Ko4E/giphy.gif" width="50px" alt="spinning cd" /><br/>
+    <img src="https://img.shields.io/badge/NOW%20PLAYING-Try%20Again%20--%20JAEHYUN-808080?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
+  </a>
 </p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
