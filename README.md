@@ -33,13 +33,18 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.postimg.cc/vTjvbpTy/my-baby-removebg-preview.png" width="400px" style="margin-right: 25px;" alt="Decor" />
-
-  <font size="5" color="#808080">
-    𝓯𝓻𝓮𝓪𝓴𝔂 ‧
-  </font>
-</div>
+<table border="0" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 25px;">
+      <img src="https://i.postimg.cc/vTjvbpTy/my-baby-removebg-preview.png" width="400px" alt="Decor" />
+    </td>
+    <td valign="middle" style="border: none;">
+      <font size="5" color="#808080">
+        𝓯𝓻𝓮𝓪𝓴𝔂 ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺
+      </font>
+    </td>
+  </tr>
+</table>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
