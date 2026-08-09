@@ -27,9 +27,9 @@
 </div>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/4Sav8RLaXMBpTZX6xNPj0K" target="_blank">
+  <a href="https://open.spotify.com/track/1LqR1wQZ604zW4hX0dNuO9" target="_blank">
     <img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/cd.gif" width="50px" alt="Vinyl CD" /><br/>
-    <img src="https://img.shields.io/badge/NOW%20PLAYING-Try%20Again%20--%20JAEHYUN-808080?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
+    <img src="https://img.shields.io/badge/NOW%20PLAYING-Try%20Again%20--%20JAEHYUN-1A1A1A?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
   </a>
 </p>
 <!--
