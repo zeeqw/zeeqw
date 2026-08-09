@@ -36,15 +36,27 @@
 <table border="0" style="border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 25px;">
-      <img src="https://i.postimg.cc/vTjvbpTy/my-baby-removebg-preview.png" width="400px" alt="Decor" />
+      <img src="LINK_ẢNH_CỦA_BẠN.png" width="400px" alt="Decor" />
     </td>
-    <td valign="middle" style="border: none;">
-      <font size="5" color="#808080">
-        ι'ℓℓ кιℓℓ уσυ ιƒ уσυ ∂ιє αgαιη .
+    
+   <td valign="middle" align="center" style="border: none;">
+      
+   <a href="https://open.spotify.com/track/1LqR1wQZ604zW4hX0dNuO9" target="_blank">
+        <img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/cd.gif" width="45px" alt="Vinyl CD" /><br/>
+        <img src="https://img.shields.io/badge/NOW%20PLAYING-Try%20Again%20--%20JAEHYUN-1A1A1A?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
+      </a>
+
+  <br/><br/>
+    <font size="6" color="#808080">
+       𝑰'𝒍𝒍 𝒌𝒊𝒍𝒍 𝒚𝒐𝒖 𝒊𝒇 𝒚𝒐𝒖 𝒅𝒊𝒆 𝒂𝒈𝒂𝒊𝒏 .
       </font>
+    <br/><br/>
+
+   <font color="#555555">✦ ━━━━━ 🖤 ━━━━━ ✦</font>
     </td>
   </tr>
 </table>
+
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
