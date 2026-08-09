@@ -40,7 +40,8 @@
     </td>
     <td valign="middle" style="border: none;">
       <font size="5" color="#808080">
-        𝓯𝓻𝓮𝓪𝓴𝔂 ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺
+        ι'ℓℓ кιℓℓ уσυ ιƒ уσυ ∂ιє αgαιη .
+
       </font>
     </td>
   </tr>
