@@ -34,7 +34,7 @@
 </p>
 
 <p align="left">
-  <img src="https://i.postimg.cc/vTjvbpTy/my-baby-removebg-preview.png" width="180px" align="left" alt="Decor" />
+  <img src="https://i.postimg.cc/vTjvbpTy/my-baby-removebg-preview.png" width="280px" align="left" style="margin-right: 20px;" alt="Decor" />
   
   <font size="5" color="#808080">𝓯𝓻𝓮𝓪𝓴𝔂.</font>
 </p>
