@@ -27,8 +27,8 @@
 </div>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/10M1p1J08v7JkZ0C9fQW5K" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlOHAwZ2x1bnJjOWMwbWZqZHZ6N3A0eGZxb3RseW9xbXZpM2J0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oEjI6SIIHBdR6Ko4E/giphy.gif" width="50px" alt="spinning cd" /><br/>
+  <a href="https://open.spotify.com/track/4Sav8RLaXMBpTZX6xNPj0K" target="_blank">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdR6Ko4E/giphy.gif" width="45px" alt="Spinning CD" /><br/>
     <img src="https://img.shields.io/badge/NOW%20PLAYING-Try%20Again%20--%20JAEHYUN-808080?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
   </a>
 </p>
