@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/4Sav8RLaXMBpTZX6xNPj0K" target="_blank">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdR6Ko4E/giphy.gif" width="45px" alt="Spinning CD" /><br/>
+    <img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/cd.gif" width="50px" alt="Vinyl CD" /><br/>
     <img src="https://img.shields.io/badge/NOW%20PLAYING-Try%20Again%20--%20JAEHYUN-808080?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
   </a>
 </p>
