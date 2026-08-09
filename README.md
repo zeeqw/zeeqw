@@ -25,6 +25,10 @@
 <div align="center">
 | 𝑴𝒆𝒈𝒖𝒎𝒊 #𝟏 𝒈𝒍𝒂𝒛𝒆𝒓. |
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PLAYING-Try%20Again%20--%20JAEHYUN-808080?style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
