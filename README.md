@@ -1,4 +1,4 @@
-![Views Counter](https://komarev.com/ghpvc/?username=zeeqw&color=gray&style=for-the-badge)
+![Views Counter](https://komarev.com/ghpvc/?username=zeeqw&color=black&style=for-the-badge)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
