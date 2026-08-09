@@ -76,7 +76,7 @@
 </table>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/0c/ff/5e/0cff5eb81cc128bbbe76103f7691c98d.jpg" width="369px" alt="Decor Image" />
+  <img src="https://i.pinimg.com/736x/8c/9d/d3/8c9dd3f96c8bf873ac88e0da52b2c3ae.jpg" width="369px" alt="Decor Image" />
 </p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
