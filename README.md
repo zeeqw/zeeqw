@@ -39,7 +39,7 @@
 </table>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/19/36/d1/1936d17750d325a8cd8e556a64348b40.gif" width="" alt="Decor Image" />
+  <img src="https://i.pinimg.com/1200x/42/72/cf/4272cfc6d1466316eb8df5cadd300a32.jpg" width="" alt="Decor Image" />
 </p>
 
 <!--
