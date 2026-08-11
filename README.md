@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.weserv.nl/?url=i.pinimg.com/originals/ab/1b/f1/ab1bf1bc56998df7507b1178d5460eaf.gif" width="500" alt="GIF">
+  <img src="https://wsrv.nl/?url=i.pinimg.com/originals/ab/1b/f1/ab1bf1bc56998df7507b1178d5460eaf.gif&output=gif" width="500" alt="GIF">
 </p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
