@@ -41,6 +41,10 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/19/36/d1/1936d17750d325a8cd8e556a64348b40.gif" width="369px" alt="Decor Image" />
 </p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/19/36/d1/1936d17750d325a8cd8e556a64348b40.gif" width="50%" alt="Mô tả GIF">
+</p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
