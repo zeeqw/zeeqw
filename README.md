@@ -46,7 +46,7 @@
       </font>
     <br/><br/>
 
-   <font color="#555555">✦ ━━━━━ 🖤 ━━━━━ ✦</font>
+   <font color="#555555">⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺</font>
     </td>
   </tr>
 </table>
