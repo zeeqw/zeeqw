@@ -26,18 +26,6 @@
 | 𝑴𝒆𝒈𝒖𝒎𝒊 #𝟏 𝒈𝒍𝒂𝒛𝒆𝒓. |
 </div>
 
-<p align="center">
-  <table border="0" style="border: none;">
-    <tr style="border: none;">
-      <td style="border: 1px solid #333333; background-color: #0D1117; padding: 15px; border-radius: 8px;">
-        <font color="#808080" size="3">
-          <i>"the cvt that always bleed. . ."</i>
-        </font>
-      </td>
-    </tr>
-  </table>
-</p>
-
 <table align="center" border="0" style="border: none;">
   <tr style="border: none;">
     <td style="background-color: #0d1117; border: 1px solid #21262d; border-radius: 8px; padding: 15px 20px;">
@@ -51,7 +39,7 @@
 </table>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/44/45/70/444570908988dc55d73188cbce58b803.jpg" width="369px" alt="Decor Image" />
+  <img src="https://i.pinimg.com/736x/49/04/63/490463949f88cecf68305356dbbf240d.jpg" width="369px" alt="Decor Image" />
 </p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
