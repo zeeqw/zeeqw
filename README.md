@@ -76,11 +76,7 @@
 </table>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c7/88/5f/c7885fb77391dac7804d7351a952b1bc.jpg" width="369px" alt="Decor Image" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e6/67/64/e66764a7ae6b33bd2bab3ef8a19ca3b5.gif" width="80%" alt="Mô tả GIF">
+  <img src="https://i.pinimg.com/originals/e6/67/64/e66764a7ae6b33bd2bab3ef8a19ca3b5.gif" width="369px" alt="Decor Image" />
 </p>
 <!--
 **zeeqw/zeeqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
