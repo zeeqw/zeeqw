@@ -1,7 +1,5 @@
 ![Views Counter](https://komarev.com/ghpvc/?username=zeeqw&color=gray&style=for-the-badge)
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=0&repeat=false&color=888888&center=true&vCenter=true&width=430&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%E2%81%BA%E2%80%A7%E2%82%8B%CB%9A+%E0%B2%B1%E2%8B%86%E2%99%B1%E2%8B%86%E0%B2%B1+%CB%9A%E2%82%8B%E2%80%A7%E2%81%BA+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="divider">
-</p>
+<h2 align="center">─────── ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ───────</h2>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=808080&center=true&vCenter=true&width=320&lines=gomen%2C+Itadori." alt="Typing SVG" />
