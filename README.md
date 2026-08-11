@@ -17,9 +17,7 @@
   </a>
 </p>
 
-<div align="center">
-| 𝑴𝒆𝒈𝒖𝒎𝒊 #𝟏 𝒈𝒍𝒂𝒛𝒆𝒓. |
-</div>
+<h2 align="center">| 𝑴𝒆𝒈𝒖𝒎𝒊 #𝟏 𝒈𝒍𝒂𝒛𝒆𝒓. |</h2>
 
 <table align="center" border="0" style="border: none;">
   <tr style="border: none;">
