@@ -1,6 +1,6 @@
 ![Views Counter](https://komarev.com/ghpvc/?username=zeeqw&color=gray&style=for-the-badge)
 <p align="center">
-  <font color="gray">─────── ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ───────</font>
+  <img src="https://img.shields.io/badge/—%20⁺‧₊˚%20ཐི⋆♱⋆ཋྀ%20˚₊‧⁺%20—-gray?style=flat-square" alt="divider">
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
