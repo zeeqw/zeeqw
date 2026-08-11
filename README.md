@@ -67,9 +67,9 @@
   <tr style="border: none;">
     <td style="background-color: #0d1117; border: 1px solid #21262d; border-radius: 8px; padding: 15px 20px;">
       <font color="#808080" size="3">
-        🖤 <b>ABOUT ME</b><br/><br/>
-        🕷️ <code>Location :</code> Earth / UTC+7<br/>
-        🕸️ <code>Interests:</code> Drawing, Music, 𝔐𝔢𝔤𝔲𝔪𝔦 <br/>
+         ★ <b>ABOUT ME</b><br/><br/>
+         ★ <code>Location :</code> Earth / UTC+7<br/>
+         ★ <code>Interests:</code> Drawing, Music, 𝔐𝔢𝔤𝔲𝔪𝔦 <br/>
       </font>
     </td>
   </tr>
