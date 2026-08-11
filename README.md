@@ -1,6 +1,6 @@
 ![Views Counter](https://komarev.com/ghpvc/?username=zeeqw&color=gray&style=for-the-badge)
 <p align="center">
-  ─────── ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ───────
+  <font color="gray">─────── ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ───────</font>
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,11 +9,12 @@
 </h1>
 
 <p align="center">
-  ─────── ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ───────
+  <font color="gray">─────── ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ───────</font>
 </p>
-
 <p align="center">
-<img src="https://i.pinimg.com/originals/d7/5a/c4/d75ac45a36cde073d6f23cad2ce8b38c.gif"/>
+
+  
+  <img src="https://i.pinimg.com/originals/d7/5a/c4/d75ac45a36cde073d6f23cad2ce8b38c.gif"/>
 </p>
 
 <p align="center">
