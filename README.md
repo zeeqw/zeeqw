@@ -56,7 +56,7 @@
     <tr style="border: none;">
       <td style="border: 1px solid #333333; background-color: #0D1117; padding: 15px; border-radius: 8px;">
         <font color="#808080" size="3">
-          <i>"Welcome to the dark side of my repository... ✦ 🖤"</i>
+          <i>"the cvt that always bleed. . ."</i>
         </font>
       </td>
     </tr>
