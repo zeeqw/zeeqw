@@ -1,6 +1,6 @@
 ![Views Counter](https://komarev.com/ghpvc/?username=zeeqw&color=gray&style=for-the-badge)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=430&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%E2%81%BA%E2%80%A7%E2%82%8B%CB%9A+%E0%B2%B1%E2%8B%86%E2%99%B1%E2%8B%86%E0%B2%B1+%CB%9A%E2%82%8B%E2%80%A7%E2%81%BA+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="divider">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=0&repeat=false&color=888888&center=true&vCenter=true&width=430&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%E2%81%BA%E2%80%A7%E2%82%8B%CB%9A+%E0%B2%B1%E2%8B%86%E2%99%B1%E2%8B%86%E0%B2%B1+%CB%9A%E2%82%8B%E2%80%A7%E2%81%BA+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="divider">
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,10 +9,8 @@
 </h1>
 
 <p align="center">
-  <font color="gray">─────── ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ───────</font>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=0&repeat=false&color=888888&center=true&vCenter=true&width=430&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%E2%81%BA%E2%80%A7%E2%82%8B%CB%9A+%E0%B2%B1%E2%8B%86%E2%99%B1%E2%8B%86%E0%B2%B1+%CB%9A%E2%82%8B%E2%80%A7%E2%81%BA+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="divider">
 </p>
-<p align="center">
-
   
   <img src="https://i.pinimg.com/originals/d7/5a/c4/d75ac45a36cde073d6f23cad2ce8b38c.gif"/>
 </p>
