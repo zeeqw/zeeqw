@@ -1,5 +1,5 @@
 ![Views Counter](https://komarev.com/ghpvc/?username=zeeqw&color=gray&style=for-the-badge)
-<h2 align="center">⛧°.⋆༺♱༻⋆.°⛧</h2>
+<h2 align="center">____________⛧°.⋆༺♱༻⋆.°⛧____________</h2>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=808080&center=true&vCenter=true&width=320&lines=gomen%2C+Itadori." alt="Typing SVG" />
